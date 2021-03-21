@@ -1,41 +1,62 @@
-# INCLUDE<GITHUB.IO>
 
+```c++
+# INCLUDE<GITHUB.IO>
 
 project main() {
 
-
 ```
+
+```c++
+
 Summary::Summary()
 //======================
 
-    DateType(); // default constructor
+class PersonalInfo();
 private:
-    int mo;
-    int day;
-    int yr;
+    int phone #;
+    int email;
+    int github_account;
 };
-
 ```
 
-## EDU
+```c++
+void DateType::Set(int newMonth,
+                   int newDay,
+                   int newYear)
 
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-	incididunt ut labore et dolore magna aliqua. Mattis enim ut tellus elementum.
-	Ipsum a arcu cursus vitae congue. Dui accumsan sit amet nulla facilisi. Lorem
-	sed risus ultricies tristique. Ullamcorper malesuada proin libero nunc consequat
+{
+    mo = newMonth;
+    day = newDay;
+    yr = newYear;
+}
+```
 
-## TECH
+```c++
+void DateType::Increment()
 
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-	incididunt ut labore et dolore magna aliqua. Mattis enim ut tellus elementum.
-	Ipsum a arcu cursus vitae congue. Dui accumsan sit amet nulla facilisi. Lorem
-	sed risus ultricies tristique. Ullamcorper malesuada proin libero nunc consequat
+{
+    day++;
+    if (day > DaysInMonth(mo, yr))
+    {
+        day = 1;
+        mo++;
+        if (mo > 12)
+        {
+            mo = 1;
+            yr++;
+        }
+    }
+}
+```
 
-## OTHER
+```c++
+public:
+    void Set(int newMonth, int newDay, int newYear);
+    int Month() const;
+    int Day() const;
+    int Year() const;
+    void Print() const;
+    void Increment();
+    RelationType ComparedTo(DateType otherDate) const;
+```
 
-	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-	incididunt ut labore et dolore magna aliqua. Mattis enim ut tellus elementum.
-	Ipsum a arcu cursus vitae congue. Dui accumsan sit amet nulla facilisi. Lorem
-	sed risus ultricies tristique. Ullamcorper malesuada proin libero nunc consequat
-
-`}`
