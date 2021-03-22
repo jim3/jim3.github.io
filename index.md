@@ -1,62 +1,20 @@
-
-```c++
-# INCLUDE<GITHUB.IO>
-
-project main() {
-
-```
-
-```c++
-
-Summary::Summary()
-//======================
-
-class PersonalInfo();
-private:
-    int phone #;
-    int email;
-    int github_account;
-};
-```
-
-```c++
-void DateType::Set(int newMonth,
-                   int newDay,
-                   int newYear)
-
-{
-    mo = newMonth;
-    day = newDay;
-    yr = newYear;
-}
-```
-
-```c++
-void DateType::Increment()
-
-{
-    day++;
-    if (day > DaysInMonth(mo, yr))
-    {
-        day = 1;
-        mo++;
-        if (mo > 12)
-        {
-            mo = 1;
-            yr++;
-        }
-    }
-}
-```
-
-```c++
-public:
-    void Set(int newMonth, int newDay, int newYear);
-    int Month() const;
-    int Day() const;
-    int Year() const;
-    void Print() const;
-    void Increment();
-    RelationType ComparedTo(DateType otherDate) const;
-```
+[Slide1](https://user-images.githubusercontent.com/11630112/112047692-fece9600-8b23-11eb-9a4e-2719534b475c.PNG)
+![Slide2](https://user-images.githubusercontent.com/11630112/112047695-fece9600-8b23-11eb-8c6a-5533df4ed2d0.PNG)
+![Slide3](https://user-images.githubusercontent.com/11630112/112047696-ff672c80-8b23-11eb-97ff-bdeaa5e19b70.PNG)
+![Slide4](https://user-images.githubusercontent.com/11630112/112047698-ff672c80-8b23-11eb-8f5a-9ba95d56b9d6.PNG)
+![Slide5](https://user-images.githubusercontent.com/11630112/112047700-ff672c80-8b23-11eb-8b56-fb9f6c451a4d.PNG)
+![Slide6](https://user-images.githubusercontent.com/11630112/112047702-ff672c80-8b23-11eb-8176-fa6fb302d476.PNG)
+![Slide7](https://user-images.githubusercontent.com/11630112/112047703-ff672c80-8b23-11eb-836c-d8a19130cd44.PNG)
+![Slide8](https://user-images.githubusercontent.com/11630112/112047704-ffffc300-8b23-11eb-8287-0f364ff6bd36.PNG)
+![Slide9](https://user-images.githubusercontent.com/11630112/112047705-ffffc300-8b23-11eb-8ccf-24e27f955cee.PNG)
+![Slide10](https://user-images.githubusercontent.com/11630112/112047706-ffffc300-8b23-11eb-80ae-f5a86bd43674.PNG)
+![Slide11](https://user-images.githubusercontent.com/11630112/112047707-ffffc300-8b23-11eb-93be-716b7d1d01bc.PNG)
+![Slide12](https://user-images.githubusercontent.com/11630112/112047708-ffffc300-8b23-11eb-991f-3a8ba34967da.PNG)
+![Slide13](https://user-images.githubusercontent.com/11630112/112047710-00985980-8b24-11eb-9616-9b0f9c1be9d7.PNG)
+![Slide14](https://user-images.githubusercontent.com/11630112/112047711-00985980-8b24-11eb-8c60-4270a4db370b.PNG)
+![Slide15](https://user-images.githubusercontent.com/11630112/112047712-00985980-8b24-11eb-882e-d3fc12eb6bce.PNG)
+![Slide16](https://user-images.githubusercontent.com/11630112/112047713-00985980-8b24-11eb-9d51-4a4fec1eaf06.PNG)
+![Slide17](https://user-images.githubusercontent.com/11630112/112047714-0130f000-8b24-11eb-98ed-7b33ef90528c.PNG)
+![Slide18](https://user-images.githubusercontent.com/11630112/112047716-0130f000-8b24-11eb-8c82-4f65e3b82efe.PNG)
+![Slide19](https://user-images.githubusercontent.com/11630112/112047719-0130f000-8b24-11eb-99fe-67650b3b1979.PNG)
 
