@@ -1,4 +1,4 @@
-`## CAD 3D MODELING PROJECTS`
+`## A PLACEHOLDER FOR VARIOUS CAD PROJECTS (3D/2D)`
 
 ![ax-drawing](https://user-images.githubusercontent.com/11630112/112050786-a1d4df00-8b27-11eb-832f-ea7ba194946f.png)
 ![ax-model](https://user-images.githubusercontent.com/11630112/112050788-a1d4df00-8b27-11eb-9604-2d5e36039d6a.png)
