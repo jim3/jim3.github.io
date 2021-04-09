@@ -5,11 +5,13 @@
 ![PISTON_CAP_3D](https://user-images.githubusercontent.com/11630112/114218692-bf7fb200-9937-11eb-8a5d-d728be2e9bfe.png)
 ![Screenshot 2021-04-09 130506](https://user-images.githubusercontent.com/11630112/114218694-bf7fb200-9937-11eb-813a-b4fe03a499f8.png)
 ![Screenshot 2021-04-09 130531](https://user-images.githubusercontent.com/11630112/114218695-bf7fb200-9937-11eb-97e0-435890357033.png)
-![piston_cap_sketch2](https://user-images.githubusercontent.com/11630112/114223389-c27da100-993d-11eb-854c-4b0c9331275c.png)
-![profile_sketch](https://user-images.githubusercontent.com/11630112/114223390-c3163780-993d-11eb-9572-4be92a8ee668.png)
-![sketch_revolved](https://user-images.githubusercontent.com/11630112/114223393-c3163780-993d-11eb-81fa-f1146223a6de.png)
-![profile_sketchv2](https://user-images.githubusercontent.com/11630112/114223391-c3163780-993d-11eb-9fbe-d7b0c6a5955f.png)
 
+![00](https://user-images.githubusercontent.com/11630112/114232524-0080c200-994a-11eb-8068-e453d770ecbb.png)
+![01](https://user-images.githubusercontent.com/11630112/114232525-0080c200-994a-11eb-9697-58d8230bbb7b.png)
+![02](https://user-images.githubusercontent.com/11630112/114232526-01195880-994a-11eb-8298-ab07315cf4b8.png)
+![04](https://user-images.githubusercontent.com/11630112/114232528-01195880-994a-11eb-9f92-1e323db91e5c.png)
+![05](https://user-images.githubusercontent.com/11630112/114232531-01195880-994a-11eb-8e6f-407b44bb46b4.png)
+![06](https://user-images.githubusercontent.com/11630112/114232532-01195880-994a-11eb-971d-6d891ccf4766.png)
 
 ![ax-drawing](https://user-images.githubusercontent.com/11630112/112050786-a1d4df00-8b27-11eb-832f-ea7ba194946f.png)
 ![ax-model](https://user-images.githubusercontent.com/11630112/112050788-a1d4df00-8b27-11eb-9604-2d5e36039d6a.png)
