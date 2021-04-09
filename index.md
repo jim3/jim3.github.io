@@ -1,5 +1,12 @@
 `## A PLACEHOLDER FOR VARIOUS CAD PROJECTS (3D/2D)`
 
+![PISTON_CAP](https://user-images.githubusercontent.com/11630112/114218690-bee71b80-9937-11eb-9b80-a9cb4fb0e971.png)
+![PISTON_CAP__](https://user-images.githubusercontent.com/11630112/114218691-bee71b80-9937-11eb-9c21-6248ca7978ad.png)
+![PISTON_CAP_3D](https://user-images.githubusercontent.com/11630112/114218692-bf7fb200-9937-11eb-8a5d-d728be2e9bfe.png)
+![Screenshot 2021-04-09 130506](https://user-images.githubusercontent.com/11630112/114218694-bf7fb200-9937-11eb-813a-b4fe03a499f8.png)
+![Screenshot 2021-04-09 130531](https://user-images.githubusercontent.com/11630112/114218695-bf7fb200-9937-11eb-97e0-435890357033.png)
+
+
 ![ax-drawing](https://user-images.githubusercontent.com/11630112/112050786-a1d4df00-8b27-11eb-832f-ea7ba194946f.png)
 ![ax-model](https://user-images.githubusercontent.com/11630112/112050788-a1d4df00-8b27-11eb-9604-2d5e36039d6a.png)
 ![base-plate-drawing](https://user-images.githubusercontent.com/11630112/112050789-a1d4df00-8b27-11eb-95c0-c06a7491a935.png)
@@ -9,6 +16,7 @@
 ![wheel](https://user-images.githubusercontent.com/11630112/112050794-a26d7580-8b27-11eb-95c6-e749fa0118d7.png)
 ![wheelasm-md](https://user-images.githubusercontent.com/11630112/112050795-a26d7580-8b27-11eb-9947-c7026dd90a8b.png)
 ![wheel-assembly-dwg](https://user-images.githubusercontent.com/11630112/112050796-a3060c00-8b27-11eb-80c0-e49cc6fd25da.png)
+
 ![wheel-dwg](https://user-images.githubusercontent.com/11630112/112050799-a3060c00-8b27-11eb-9e43-08dbd2ec3247.png)
 ![1](https://user-images.githubusercontent.com/11630112/112050819-a7322980-8b27-11eb-90f6-175753e7c168.png)
 ![base](https://user-images.githubusercontent.com/11630112/112050821-a7cac000-8b27-11eb-9b85-e4383e6a7517.png)
@@ -36,7 +44,12 @@
 ![Leveling-Assembly-1](https://user-images.githubusercontent.com/11630112/112050873-ae593780-8b27-11eb-9e34-002d4ba8aba9.jpg)
 ![Leveling-Assembly-Drawing](https://user-images.githubusercontent.com/11630112/112050875-ae593780-8b27-11eb-9345-e951995562eb.jpg)
 ![Lifting Block](https://user-images.githubusercontent.com/11630112/112050877-ae593780-8b27-11eb-8c45-b3b878ead8b4.jpg)
-![Lifting-Block-Drawing](https://user-images.githubusercontent.com/11630112/112050878-aef1ce00-8b27-11eb-8ae0-b3748c676880.jpg)
+![Lifting-Block-Drawing](https://user-images.githubusercontent.com/11630112/112050878-aef1ce00-8b27-11eb-8ae0-b3748c676880.jpg)![PISTON_CAP](https://user-images.githubusercontent.com/11630112/114218575-9828e500-9937-11eb-806a-334ebf650f93.png)
+![PISTON_CAP__](https://user-images.githubusercontent.com/11630112/114218578-98c17b80-9937-11eb-837e-0e4acef6ce49.png)
+![PISTON_CAP_3D](https://user-images.githubusercontent.com/11630112/114218579-98c17b80-9937-11eb-881f-fbc6e63753b9.png)
+![Screenshot 2021-04-09 130506](https://user-images.githubusercontent.com/11630112/114218581-98c17b80-9937-11eb-9c6f-420e4d08b0cc.png)
+![Screenshot 2021-04-09 130531](https://user-images.githubusercontent.com/11630112/114218582-98c17b80-9937-11eb-821e-c95121a2951a.png)
+
 ![Sliding Block](https://user-images.githubusercontent.com/11630112/112050879-aef1ce00-8b27-11eb-9d4c-7e4686622a8f.jpg)
 ![Sliding-Block-Drawing](https://user-images.githubusercontent.com/11630112/112050880-aef1ce00-8b27-11eb-8f2b-ef31cebf4c8c.jpg)
 
