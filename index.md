@@ -1,8 +1,6 @@
 `## A PLACEHOLDER FOR VARIOUS CAD PROJECTS (3D/2D)`
 
-![ax-drawing](https://user-images.githubusercontent.com/11630112/112050786-a1d4df00-8b27-11eb-832f-ea7ba194946f.png)
-![ax-model](https://user-images.githubusercontent.com/11630112/112050788-a1d4df00-8b27-11eb-9604-2d5e36039d6a.png)
-![base-plate-drawing](https://user-images.githubusercontent.com/11630112/112050789-a1d4df00-8b27-11eb-95c0-c06a7491a935.png)
+![ax-drawing](https://user-images.githubusercontent.com/11630112/112050786-a1d4df00-8b27-11eb-832f-ea7ba194946f.png) ![ax-model](https://user-images.githubusercontent.com/11630112/112050788-a1d4df00-8b27-11eb-9604-2d5e36039d6a.png) ![base-plate-drawing](https://user-images.githubusercontent.com/11630112/112050789-a1d4df00-8b27-11eb-95c0-c06a7491a935.png)
 ![base-plate-md](https://user-images.githubusercontent.com/11630112/112050790-a26d7580-8b27-11eb-9c8a-cbd96be96a16.png)
 ![shaft-support](https://user-images.githubusercontent.com/11630112/112050791-a26d7580-8b27-11eb-99f6-8af18d59804d.png)
 ![shaft-support-dwg](https://user-images.githubusercontent.com/11630112/112050793-a26d7580-8b27-11eb-9fad-833f8c4de0b0.png)
