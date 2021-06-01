@@ -1,14 +1,4 @@
-`## A PLACEHOLDER FOR VARIOUS CAD PROJECTS (3D/2D)`
 
-![ax-drawing](https://user-images.githubusercontent.com/11630112/112050786-a1d4df00-8b27-11eb-832f-ea7ba194946f.png) ![ax-model](https://user-images.githubusercontent.com/11630112/112050788-a1d4df00-8b27-11eb-9604-2d5e36039d6a.png) ![base-plate-drawing](https://user-images.githubusercontent.com/11630112/112050789-a1d4df00-8b27-11eb-95c0-c06a7491a935.png)
-![base-plate-md](https://user-images.githubusercontent.com/11630112/112050790-a26d7580-8b27-11eb-9c8a-cbd96be96a16.png)
-![shaft-support](https://user-images.githubusercontent.com/11630112/112050791-a26d7580-8b27-11eb-99f6-8af18d59804d.png)
-![shaft-support-dwg](https://user-images.githubusercontent.com/11630112/112050793-a26d7580-8b27-11eb-9fad-833f8c4de0b0.png)
-![wheel](https://user-images.githubusercontent.com/11630112/112050794-a26d7580-8b27-11eb-95c6-e749fa0118d7.png)
-![wheelasm-md](https://user-images.githubusercontent.com/11630112/112050795-a26d7580-8b27-11eb-9947-c7026dd90a8b.png)
-![wheel-assembly-dwg](https://user-images.githubusercontent.com/11630112/112050796-a3060c00-8b27-11eb-80c0-e49cc6fd25da.png)
-
-![wheel-dwg](https://user-images.githubusercontent.com/11630112/112050799-a3060c00-8b27-11eb-9e43-08dbd2ec3247.png)
 ![1](https://user-images.githubusercontent.com/11630112/112050819-a7322980-8b27-11eb-90f6-175753e7c168.png)
 ![base](https://user-images.githubusercontent.com/11630112/112050821-a7cac000-8b27-11eb-9b85-e4383e6a7517.png)
 ![base2](https://user-images.githubusercontent.com/11630112/112050824-a7cac000-8b27-11eb-8f2d-6b84a73d00a3.png)
