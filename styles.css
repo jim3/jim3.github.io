@@ -23,6 +23,20 @@ main {
     padding: 20px;
 }
 
+h3 {
+    margin-top: 0;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration: solid;
+    font-weight: bold;
+}
+
 footer {
     background-color: #333;
     color: #fff;
